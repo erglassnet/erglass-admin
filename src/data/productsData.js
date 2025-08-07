@@ -15,8 +15,7 @@ export const productsArray = [
     },
     image: "/guzgu/g010.jpeg",
     images: [{type: "video", src: "/guzgu/g016.mp4"}]
-        ]
-  },
+    },
     {
     id: "guzgu6",
     name: "Güzgü 6",
