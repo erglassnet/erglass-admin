@@ -13,7 +13,7 @@ export const productsArray = [
       doorType: "",
       warranty: ""
     },
-    image: "/guzgu/g0108.jpeg",
+    image: "/guzgu/g010.jpeg",
     images: []
   },
    {
