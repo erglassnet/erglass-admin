@@ -1,5 +1,22 @@
 export const productsArray = [
     {
+    id: "qapi5",
+    name: "Qapı 5",
+    category: "doors",
+    price: 350,
+    rating: 4.9,
+    description: "90 sm x 220 sm, pimapen - S70, 1.5-lik dəmir, 1.8-lik şəbəkə, 6 x 4 şüşə paket, roto çift",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "",
+    images: [{type: "video", src: "/qapi/q01.mp4"}]
+  },
+    {
     id: "pencere4",
     name: "Pəncərə 4",
     category: "windows",
