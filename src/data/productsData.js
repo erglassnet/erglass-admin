@@ -1,4 +1,22 @@
 export const productsArray = [
+    },
+    {
+    id: "pencere4",
+    name: "Pəncərə 4",
+    category: "windows",
+    price: 500,
+    rating: 4.9,
+    description: "280 sm x 220 sm, pimapen - S70, 1.5-lik dəmir, 1.8-lik şəbəkə, 6 x 4 şüşə paket",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/pencere/a00.jpeg",
+    images: [{type: "video", src: "/pencere/a01.mp4"}]
+  },
     {
     id: "guzgu7",
     name: "Güzgü 7",
