@@ -1,5 +1,23 @@
 export const productsArray = [
     {
+    id: "guzgu8",
+    name: "Güzgü 8",
+    category: "mirrors",
+    price: 50,
+    rating: 4.9,
+    description: "50x70",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/guzgu/g013.jpeg",
+    images: ["/guzgu/g014.jpeg",
+             {type: "video", src: "/guzgu/g008.mp4"}]
+    },
+    {
     id: "qapi5",
     name: "Qapı 5",
     category: "doors",
