@@ -15,7 +15,7 @@ export const productsArray = [
     },
     image: "/guzgu/g013.jpeg",
     images: ["/guzgu/g014.jpeg",
-             {type: "video", src: "/guzgu/g008.mp4"}]
+             {type: "video", src: "/guzgu/g008_.mp4"}]
     },
     {
     id: "qapi5",
