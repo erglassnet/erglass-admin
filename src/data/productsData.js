@@ -3,7 +3,7 @@ export const productsArray = [
     id: "guzgu15",
     name: "Güzgü 15",
     category: "mirrors",
-    price: 75,
+    price: 60,
     rating: 4.9,
     description: "diametr 80 sm ölçüdə, led işıqlı, sensorlu güzgü",
     features: [""],
