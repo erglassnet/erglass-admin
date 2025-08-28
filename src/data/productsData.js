@@ -1,5 +1,22 @@
 export const productsArray = [
     {
+    id: "guzgu17",
+    name: "Güzgü 17",
+    category: "mirrors",
+    price: 50,
+    rating: 4.9,
+    description: "60x80 sm ölçüdə, led işıqlı, sensorlu güzgü",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/guzgu/g37.jpg",
+    images: []
+    },
+    {
     id: "guzgu16",
     name: "Güzgü 16",
     category: "mirrors",
