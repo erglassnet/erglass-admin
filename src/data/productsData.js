@@ -1459,8 +1459,8 @@ export const categoriesArray = [
   },
   {
     id: "glass-railings",
-    name: "Şüşə Prillalar",
-    description: "Müasir dizaynlı, təhlükəsiz və davamlı şüşə prilla sistemləri",
+    name: "Şüşə Mühəccərlər (perila)",
+    description: "Müasir dizaynlı, təhlükəsiz və davamlı şüşə mühəccər sistemləri",
     image: "/placeholder-category-glass-railings.jpg"
   },
   {
