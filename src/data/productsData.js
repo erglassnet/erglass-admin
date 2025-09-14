@@ -1,4 +1,21 @@
 export const productsArray = [
+     {
+    id: "aksesuar6",
+    name: "Aksesuar 6",
+    category: "accessories",
+    price: 60,
+    rating: 4.9,
+    description: "Qapı üçün süyürmə tor",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "",
+    images: [{type: "video", src: "/aksesuar/t01.mp4"}]
+  },
     {
     id: "guzgu22",
     name: "Güzgü 22",
