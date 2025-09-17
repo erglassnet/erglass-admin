@@ -1,5 +1,22 @@
 export const productsArray = [
      {
+    id: "guzgu23",
+    name: "Güzgü 23",
+    category: "mirrors",
+    price: 250,
+    rating: 4.9,
+    description: "İri ölçüdə, led işıqlı, pultnan idarə olunan güzgü",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/guzgu/g46.jpeg",
+    images: [{type: "video", src: "/guzgu/g38.mp4"}]
+    },
+     {
     id: "aksesuar6",
     name: "Aksesuar 6",
     category: "accessories",
