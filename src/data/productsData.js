@@ -1,5 +1,24 @@
 export const productsArray = [
     {
+    id: "qapi6",
+    name: "Qapı 6",
+    category: "doors",
+    price: 350,
+    rating: 4.9,
+    description: "90 sm x 210 sm, pimapen - S70 ağ, 1.5-lik dəmir, məntəşə (petlə) ayarlı SV, kilit - Roto (Almaniya), barel (içlik) - Roto 15 açar",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/qapi/q01.jpg",
+    images: ["/qapi/q02.jpg",
+            "/qapi/q03.jpg",
+             {type: "video", src: "/qapi/q02.mp4"}]
+    },
+    {
     id: "guzgu26",
     name: "Güzgü 26",
     category: "mirrors",
