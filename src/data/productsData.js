@@ -5,7 +5,7 @@ export const productsArray = [
     category: "mirrors",
     price: 150,
     rating: 4.9,
-    description: "110x60 sm ölçüdə, pultnan idarə olunan, led, sadə rgd işıqlı güzgü, xüsusi sifariş",
+    description: "110x60 sm ölçüdə, pultnan idarə olunan, led, sadə rgb işıqlı güzgü, xüsusi sifariş",
     features: [""],
     specifications: {
       glassType: "",
