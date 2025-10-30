@@ -1,5 +1,24 @@
 export const productsArray = [
     {
+    id: "guzgu28",
+    name: "Güzgü 28",
+    category: "mirrors",
+    price: 150,
+    rating: 4.9,
+    description: "110x60 sm ölçüdə, pultnan idarə olunan, led, sadə rgd işıqlı güzgü, xüsusi sifariş",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/guzgu/g52.jpg",
+    images: ["/guzgu/g53a.jpg",
+            {type: "video", src: "/guzgu/g42.mp4"},
+            {type: "video", src: "/guzgu/g43_.mp4"}]
+    },
+    {
     id: "guzgu27",
     name: "Güzgü 27",
     category: "mirrors",
