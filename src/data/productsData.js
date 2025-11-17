@@ -5,7 +5,7 @@ export const productsArray = [
     category: "mirrors",
     price: 70,
     rating: 4.9,
-    description: "60x80 sm ölçüdə, led işıqlı, sensorlu güzgü, xüxusi sifariş",
+    description: "60x80 sm ölçüdə, led işıqlı, sensorlu güzgü, xüsusi sifariş",
     features: [""],
     specifications: {
       glassType: "",
@@ -96,7 +96,7 @@ export const productsArray = [
     category: "mirrors",
     price: 250,
     rating: 4.9,
-    description: "120 sm diametrində, led rgb işıqlı, pultla idarə olunan güzgü, xüxusi sifariş",
+    description: "120 sm diametrində, led rgb işıqlı, pultla idarə olunan güzgü, xüsusi sifariş",
     features: [""],
     specifications: {
       glassType: "",
@@ -113,7 +113,7 @@ export const productsArray = [
     category: "mirrors",
     price: 70,
     rating: 4.9,
-    description: "70 sm diametrində, led işıqlı, sensorlu güzgü, xüxusi sifariş",
+    description: "70 sm diametrində, led işıqlı, sensorlu güzgü, xüsusi sifariş",
     features: [""],
     specifications: {
       glassType: "",
