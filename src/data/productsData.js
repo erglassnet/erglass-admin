@@ -1,4 +1,40 @@
 export const productsArray = [
+    },
+    {
+    id: "pencere5",
+    name: "Pəncərə 5",
+    category: "windows",
+    price: 900,
+    rating: 4.9,
+    description: "470 sm x 200 sm, qollar - 300 sm, pimapen - S60, 1-lik dəmir, qəhvə rəngli 4-lük şüşə",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/pencere/a02.jpeg",
+    images: ["/pencere/a03.jpeg",
+             {type: "video", src: "/pencere/a01.mp4"}]
+    },
+    {
+    id: "guzgu33",
+    name: "Güzgü 33",
+    category: "mirrors",
+    price: 100,
+    rating: 4.9,
+    description: "80 sm diametrində, pultla idarə olunan sadə RGB işıqlı güzgü, xüsusi sifariş",
+    features: [""],
+    specifications: {
+      glassType: "",
+      hardwareFinish: "",
+      doorType: "",
+      warranty: ""
+    },
+    image: "/guzgu/g59.jpg",
+    images: [{type: "video", src: "/guzgu/g46.mp4"}]
+    },
     {
     id: "guzgu32",
     name: "Güzgü 32",
@@ -507,7 +543,7 @@ export const productsArray = [
       warranty: ""
     },
     image: "/pencere/a00.jpeg",
-    images: [{type: "video", src: "/pencere/a01.mp4"}]
+    images: [ ]
   },
     {
     id: "guzgu7",
