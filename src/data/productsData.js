@@ -1,5 +1,4 @@
 export const productsArray = [
-    },
     {
     id: "pencere5",
     name: "Pəncərə 5",
