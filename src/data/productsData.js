@@ -22,7 +22,7 @@ export const productsArray = [
     category: "mirrors",
     price: 70,
     rating: 4.9,
-    description: "50x80 sm ölçüdə, led işıqlı, sensorlu güzgü",
+    description: "55x80 sm ölçüdə, led işıqlı, sensorlu güzgü",
     features: [""],
     specifications: {
       glassType: "",
