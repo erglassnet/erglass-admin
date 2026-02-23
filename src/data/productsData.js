@@ -13,7 +13,7 @@ export const productsArray = [
       doorType: "",
       warranty: ""
     },
-    image: "/guzgu/g70.jpg",
+    image: "/guzgu/g69.jpg",
     images: []
     },
     {
@@ -30,7 +30,7 @@ export const productsArray = [
       doorType: "",
       warranty: ""
     },
-    image: "/guzgu/g69.jpg",
+    image: "/guzgu/g70.jpg",
     images: []
     },
     {
